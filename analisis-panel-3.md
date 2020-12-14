@@ -24,7 +24,7 @@ Dalam menganalisis data karyawan yang diperoleh maka digunakan informasi yang ad
 
 •	Menemukan extreme values, atau distribusi nilai maksimum atau nilai minimum (Extreme values) pada data.
 
-## 3.	How the visual encoding and interaction of idioms are constructed
+## 3.	How the visual encoding and interaction of idioms are constructed ?
 Pertanyaan how digunakan untuk menangani kompleksitas data dengan cara:
 -	Manipulate, yaitu dengan mengganti tampilan visualisasi dari waktu ke waktu.
 Cara yang dilakukan adalah dengan mengubah urutan data (data-driven reordering).
