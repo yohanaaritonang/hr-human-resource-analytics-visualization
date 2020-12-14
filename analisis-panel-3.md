@@ -30,3 +30,6 @@ Pertanyaan how digunakan untuk menangani kompleksitas data dengan cara:
 Cara yang dilakukan adalah dengan mengubah urutan data (data-driven reordering).
 
 Setelah malakukan analisis pertanyaan dengan what-why-how framework, pada tahapan ini akan ditentukan idiom visualisasi yang tepat untuk menemukan jawaban dari pertanyaan tersebut. Idiom visualisasi yang tepat untuk memrepresentasikan data karyawan yang digunakan berdasarkan analisis terhadap pertanyaan “Bagaimana pengaruh kinerja karyawan terhadap kemungkinan karyawan keluar dari perusahaan?” adalah Bar Chart. Bar chart digunakan untuk menunjukkan distribusi nilai pada data. Contohnya, seorang HRD ingin melihat jumlah karyawan yang keluar dan karyawan yang tetap pada perusahaan tersebut berdasarkan kinerja karyawan dengan Job Role dan Departement tertentu.
+
+![Panel 3](https://user-images.githubusercontent.com/43488092/102042232-e7d12700-3e03-11eb-8fca-b01c302a065a.jpg)
+
