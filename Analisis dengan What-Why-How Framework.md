@@ -1,36 +1,40 @@
-Bagaimana kesesuaian persentase kenaikan gaji setiap karyawan terhadap kemungkinan karyawan tersebut keluar dari perusahaan?
+# Bagaimana kesesuaian persentase kenaikan gaji setiap karyawan terhadap kemungkinan karyawan tersebut keluar dari perusahaan?
 
 Analisis Pertayaan dengan What-Why-How Framework
 
-What?
+## What data the user sees?
+
 **No.**|**Data Abstraction**|**Type**
+:-----:|:-----:|:-----:
 1.|Data Types|Items and Attribute
 2.|Dataset Types|Tables
 3.|Dataset Availability|Static (offline)
-4.|Attribute Type|EmpNumber : categorical
-EmpLastSalaryHikePercent : quantitative-ratio
-Attrition : categorical
+4.|Attribute Type|EmpNumber : categorical, EmpLastSalaryHikePercent : quantitative-ratio, Attrition : categorical
 
 
-Why?
+## 2. Why the user intends to use vis tool?
 
-Actions: 
+### Actions: 
 Analyze → Consume → Discover
 (Penggunaan visualisasi untuk menemukan pengetahuan baru yang sebelumnya tidak diketahui).
+
 Search → Lookup
 (Pembaca mengetahui apa yang sedang dicari).
+
 Query → Compare
 (Pembaca melakukan perbandingan dengan mengacu pada beberapa target).
 
-Targets:
+### Targets:
 Attributes → One → Distribution
 (Menemukan nilai ekstrem, baik itu nilai minimum atau maksimum di seluruh rentang).
+
 Attributes → Many → Correlation
 (Melihat korelasi antara satu atribut dengan atribut lainnya jika ada kecenderungan nilai-nilai kedua terkait dengan nilai yang pertama).
 
-How?
+## 3. How the visual encoding and interaction of idioms are constructed?
 Encode →Arrange → Align
 (Menyusun data secara spatial)
+
 Manipulate → Select
 (Menyoroti satu atau beberapa item tertentu).
 
