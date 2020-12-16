@@ -29,4 +29,4 @@ Pertanyaan how digunakan untuk menangani kompleksitas data dengan cara:
 -	Manipulate, yaitu dengan mengganti tampilan visualisasi dari waktu ke waktu.
 Cara yang dilakukan adalah dengan mengubah urutan data (data-driven reordering).
 
-Setelah malakukan analisis pertanyaan dengan what-why-how framework, pada tahapan ini akan ditentukan idiom visualisasi yang tepat untuk menemukan jawaban dari pertanyaan tersebut. Idiom visualisasi yang tepat untuk memrepresentasikan data karyawan yang digunakan berdasarkan analisis terhadap pertanyaan “Bagaimana pengaruh education dari setiap karyawan terhadap kinerja karyawan tersebut?” adalah Stacked Bar Chart.
+Setelah malakukan analisis pertanyaan dengan what-why-how framework, pada tahapan ini akan ditentukan idiom visualisasi yang tepat untuk menemukan jawaban dari pertanyaan tersebut. Idiom visualisasi yang tepat untuk memrepresentasikan data karyawan yang digunakan berdasarkan analisis terhadap pertanyaan “Faktor faktor apa saja yang mempengaruhi knerja karyawan ?” adalah Stacked Bar Chart.
