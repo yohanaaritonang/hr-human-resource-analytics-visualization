@@ -21,7 +21,7 @@ Pertanyaan why digunakan untuk menentukan action dan target dalam abstraksi data
 -	Search -> Lookup: Pembaca mengetahui apa yang sedang dicari.
 -	Query -> Compare: Pembaca melakukan perbandingan dengan mengacu pada beberapa target.
 
-### -	Target : Trend (All Data), Extremes (Attributes)
+### -	Target :
 -	Attributes -> One -> Distribution: Menemukan nilai ekstrim, baik itu nilai minimum atau maksimum di seluruh rentang.
 -	Attributes -> Many -> Correlation: Menemukan korelasi antara satu atribut dengan atribut lainnya.
 
