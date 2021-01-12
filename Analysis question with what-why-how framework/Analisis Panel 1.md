@@ -11,7 +11,7 @@ Pertanyaan what digunakan untuk menganalisis data karyawan yang digunakan. Misal
 1.|Data Types|Items dan Attribute
 2.|Dataset Types|Table
 3.|Dataset Availability|Static (Offline)
-4.|Attribute Type|Categorical/Nominal, Ordered-Ordinal (Performance Rating)
+4.|Attribute Type|Ordered-Ordinal (Performance Rating), Ratio-scaled(Performance Rating)
 
 
 ## 2.	Why the user intends to use vis tool ?
@@ -29,4 +29,4 @@ Pertanyaan how digunakan untuk menangani kompleksitas data dengan cara:
 -	Manipulate, yaitu dengan mengganti tampilan visualisasi dari waktu ke waktu.
 Cara yang dilakukan adalah dengan mengubah urutan data (data-driven reordering).
 
-Setelah malakukan analisis pertanyaan dengan what-why-how framework, pada tahapan ini akan ditentukan idiom visualisasi yang tepat untuk menemukan jawaban dari pertanyaan tersebut. Idiom visualisasi yang tepat untuk memrepresentasikan data karyawan yang digunakan berdasarkan analisis terhadap pertanyaan “Bagaimana pengaruh pengalaman karyawan dalam bekerja terhadap kinerja karyawan tersebut ?” adalah Bar Chart.
+Setelah malakukan analisis pertanyaan dengan what-why-how framework, pada tahapan ini akan ditentukan idiom visualisasi yang tepat untuk menemukan jawaban dari pertanyaan tersebut. Idiom visualisasi yang tepat untuk memrepresentasikan data karyawan yang digunakan berdasarkan analisis terhadap pertanyaan “Bagaimana pengaruh pengalaman karyawan dalam bekerja terhadap kinerja karyawan tersebut ?” adalah Line Chart.
