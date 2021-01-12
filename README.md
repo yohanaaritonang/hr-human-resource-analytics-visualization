@@ -6,6 +6,7 @@ Dataset yang digunakan dalam proyek ini diperoleh dari link berikut: https://www
 Dataset ini berisi 28 atribut atau variabel dan memuat 1200 record yang terdiri dari 1022 data pegawai yang sudah meninggalkan perusahaan atau tidak bekerja lagi pada perusahaan dan 178 data pegawai yang masih bekerja. Dataset yang akan dianalisis pada proyek ini terdiri dari 8 atribut nominal, 8 atribut ordinal, 3 atribut binary, dan 9 atribut numerik.
 
 Keeempat panel visualisasi tersebut dapat diakses pada link berikut:
+
 Panel 1: Visualisasi Lama Pengalaman Karyawan Bekerja dengan Kinerja Karyawan
 https://public.tableau.com/profile/jovan.pioma.pakpahan#!/vizhome/PerformanceratingFactor/PerformanceRatingbyWorkingExperience
 
